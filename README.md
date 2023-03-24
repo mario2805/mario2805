@@ -1,5 +1,12 @@
 <h1 align="center">☣️</h1>
-<h1 align="left">Olá, seja bem vindo!</h1>
+
+---
+
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Teko&weight=100&size=50&duration=4800&pause=1000&color=F7BE2A&vCenter=true&width=700&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+M%C3%A1rio+N%C3%A9o;Seja+bem+vindo!" alt="Typing SVG" /></a>
+
+---
+
+<h1 align="center"></h1>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mario2805&show_icons=true&theme=gruvbox&locale=en" alt="mario2805" /></p>
 
